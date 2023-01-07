@@ -1,0 +1,53 @@
+[
+
+{
+
+    "Id": 301,
+    "EntityType": "Location",
+    "LocationName": "6000_LAVA",
+    "EquipmentShortName": "EXD36",
+    "EnableAutoArrive": true,
+    "EnableAutoReassign": false,
+    "Shape": 
+
+{
+
+    "ShapeType": "Circular",
+    "Circle": 
+
+            {
+                "Radius": 550,
+                "CenterPoint": "POINT (30 10)"
+            },
+            "Polygon": "POLYGON((10.689 -25.092, 34.595 -20.170, 38.814 -35.639, 13.502 -39.155, 10.689 -25.092))"
+        },
+        "Enabled": false,
+        "SignalingType": "ArrivalDeparture",
+        "IsSpeedTrap": false,
+        "EnableTimeTracking": false
+    }
+
+]
+
+
+
+
+
+location
+
+
+
+[
+
+    {
+        "Region": "DROID",
+        "Pit": "TDU",
+        "Position": "POINT Z (0 0 0)",
+        "BeaconPanelId": 101,
+        "Type": "Dump",
+        "Name": "DROIDSTOCK"
+    }
+
+]
+
+
